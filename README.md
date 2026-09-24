@@ -1,1 +1,2 @@
-# fullStackMERN
+# Bank Management System
+
